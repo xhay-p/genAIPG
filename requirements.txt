@@ -21,6 +21,7 @@ python-decouple
 openpyxl
 crewai
 crewai-tools
+arxiv
 xmltodict
 biopython
 html2text
