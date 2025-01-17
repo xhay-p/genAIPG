@@ -8,6 +8,7 @@ langchain-cohere
 langchain-google-genai
 langchain-openai
 langchain-ollama
+langchain-huggingface
 langgraph
 langsmith
 anthropic
