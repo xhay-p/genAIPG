@@ -59,3 +59,9 @@ Generative AI Playground
         1. Multi-Agent Literature Reviewer
         2. Uses user-uploaded input files (currently supports .txt only)
         3. User schema based report planning (reads from schema.txt)
+
+## References
+1. [Langchain Tutorials](https://python.langchain.com/docs/tutorials/)
+2. [Langgraph Tutorials](https://langchain-ai.github.io/langgraph/tutorials/)
+3. [Prompt Engineering Guide](https://www.promptingguide.ai/)
+4. [Ollama Models](https://ollama.com/search)
