@@ -49,7 +49,7 @@ Generative AI Playground
     1. [HIL](GENAIPG/langgraph/basics/5_agent_with_HIL_1.ipynb)
 
 ### Applications
-1. Research Assistant Chatbot
+1. [Research Assistant Chatbot](GENAIPG/langgraph/apps/research_assistant.ipynb)
 2. Literature Reviewer
     1. [v1](GENAIPG/langgraph/apps/literature_reviewer.ipynb)
         1. Multi-Agent Literature Reviewer
